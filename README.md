@@ -1,7 +1,5 @@
 # ISDN-Sales-Distribution-System
 Web-based sales and distribution management system
-# ISDN Sales Distribution System
-
 This project is a web-based sales and distribution management system developed using PHP and MySQL.
 
 ## User Roles
