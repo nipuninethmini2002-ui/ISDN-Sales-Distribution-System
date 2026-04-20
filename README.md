@@ -4,6 +4,7 @@ Project Overview
 This is a web-based sales and distribution management system developed to streamline the process of product ordering, delivery tracking, and role-based management.
 
 User Roles
+
 The system supports 4 distinct user roles:
 1. Admin / HO Admin: For overall system management.
 2. RDC Staff: To manage regional distribution.
