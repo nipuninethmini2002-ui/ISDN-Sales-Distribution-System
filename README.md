@@ -30,6 +30,13 @@ Setup Instructions
 3. Configuration: Update your database credentials (host, username, password) in the db.php file.
 4. Execution: Move the project folder to htdocs and run it using a local server like XAMPP or WAMP.
 
+Group Members
+
+COL00315250 – P. Nipuni Nethmini
+
+COL00309019 – Rumana Begum
+
+
 Academic Supervision
 
 This project was guided by Nimesha Rajakaruna as part of undergraduate coursework.
