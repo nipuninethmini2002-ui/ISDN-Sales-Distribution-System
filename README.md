@@ -31,10 +31,8 @@ Setup Instructions
 4. Execution: Move the project folder to htdocs and run it using a local server like XAMPP or WAMP.
 
 Group Members
-
-COL00315250 – P. Nipuni Nethmini
-
-COL00309019 – Rumana Begum
+1. COL00315250 – P. Nipuni Nethmini
+2. COL00309019 – Rumana Begum
 
 
 Academic Supervision
