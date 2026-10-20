@@ -12,12 +12,12 @@ function sendEmail($to, $subject, $body){
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'isdnsystem@gmail.com'; 
-        $mail->Password   = 'webnqrkahihtfato'; 
+        $mail->Username   = 'YOUR_EMAIL'; 
+        $mail->Password   = 'YOUR_EMAIL_PASSWORD'; 
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
-        $mail->setFrom('YOUR_GMAIL@gmail.com', 'ISDN System');
+        $mail->setFrom('YOUR_GMAIL@gmail.com', 'YOUR_DATABASE_NAME');
         $mail->addAddress($to);
 
         $mail->isHTML(true);
