@@ -87,12 +87,12 @@ if(isset($_POST['register'])){
                 $mail->isSMTP();
                 $mail->Host       = 'smtp.gmail.com';
                 $mail->SMTPAuth   = true;
-                $mail->Username   = 'isdnsystem@gmail.com';
+                $mail->Username   = 'YOUR_EMAIL';
                 $mail->Password   = 'webnqrkahihtfato';
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                 $mail->Port       = 587;
 
-                $mail->setFrom('isdnsystem@gmail.com', 'ISDN System');
+                $mail->setFrom('YOUR_EMAIL', 'YOUR_DATABASE_NAME');
                 $mail->addAddress($email, $username);
 
                 $mail->isHTML(false);
